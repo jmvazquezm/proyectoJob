@@ -1,0 +1,1346 @@
+﻿<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">Advantage Security CA</Name>
+			<Name xml:lang="es">Advantage Security CA</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">Advantage Security PSC</Name>
+			<Name xml:lang="es">Advantage Security PSC</Name>
+			<Name xml:lang="en">Advantage Security, S. de R.L. de C.V.</Name>
+			<Name xml:lang="es">Advantage Security, S. de R.L. de C.V.</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Av. Santa Fe 170, Oficina 3-2-06. Col. Lomas de Santa Fe</StreetAddress>
+					<Locality>Alvaro Obregon</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>01210</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Av. Santa Fe 170, Oficina 3-2-06. Col. Lomas de Santa Fe</StreetAddress>
+					<Locality>Alvaro Obregon</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>01210</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="es">http://advantage-security.com</URI>
+				<URI xml:lang="en">mailto:psc@advantage-security.com</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.firmadigital.gob.mx/marco_juridico.html</URI>
+			<URI xml:lang="es">http://advantage-security.com</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIjTCCBnWgAwIBAgIBLjANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDgyMzE5MzM0OVoXDTI3MDgy
+MzE5MzM0OVowggFqMR4wHAYDVQQDDBVBZHZhbnRhZ2UgU2VjdXJpdHkgQ0ExKTAn
+BgkqhkiG9w0BCQEWGnBzY0BhZHZhbnRhZ2Utc2VjdXJpdHkuY29tMS8wLQYDVQQK
+DCZBZHZhbnRhZ2UgU2VjdXJpdHksIFMuIGRlIFIuTC4gZGUgQy5WLjEfMB0GA1UE
+CwwWQWR2YW50YWdlIFNlY3VyaXR5IFBTQzFBMD8GA1UECQw4QXYuIFNhbnRhIEZl
+IDE3MCwgT2ZpY2luYSAzLTItMDYuIENvbC4gTG9tYXMgZGUgU2FudGEgRmUxDjAM
+BgNVBBETBTAxMjEwMRcwFQYDVQQHDA5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECAwQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxIjAgBgoJkiaJk/IsZAEZFhJh
+ZHZhbnRhZ2Utc2VjdXJpdHkxEzARBgoJkiaJk/IsZAEZFgNjb20wggIgMA0GCSqG
+SIb3DQEBAQUAA4ICDQAwggIIAoICAQDVjvzW3oGYjSZUqvNDTPZ8WbbY0dSJDjzf
+m/UmGsqKqRY6sVYisU9dwAlIqRHunmpOO21DOTkHqg4dCb0ciALZRb9ufhC6DlBU
+2H47hssRP/7wrui5RSTMxbpNingCjcoYd2jCT0XjHFN6oMvE3KD+HuLGvky/jxBI
+8r8FVAbkec4nFcnW8KRHguOJQnBK1facUtMyv+kKU7w8mfE7CHFJWBouav6rOB/g
+1FqV4BwTBIBi9lJYSD5xpT7Qmr5uOyQ6Usk4Dd1ucTbbJzE8yur12PWSRISF2gxe
+owF4rH7LNgxzMX2hWNybrFx94SmlWFLcrArccXLYklto8b1+6wsbAchhBDKZ5SHn
+nzlc3gq3yQFRzQQ5VoPwwa8xoj70H8Pe7s7VW7CDH62lv1JaREa3vEP1QN630Fjk
+6G/Kbn6fpEes1DUxNAWqWOOH7MO1NGm8D8jtvPHIQOY1OoigX7zPLaF3YxHXkaBb
+3RjhUzzjH6PitPtQ9ilx3hKqkfmBgNEEGPWQKFVy+DwSZGuc6GlxvL0UCoR1Dkna
+TyWEf0XUpn+Ysi8UhiskgOvm3BkMw6uakiRt7sRCm/br0Md1/UC1AaIicYlXp+wG
+ZV8Uul4ssATjsddYVk1BCtQvfEyP/XZWYFKj87sa8eyBD/SV/h0SxIbuG5OJ3qBO
+Dw581y8J5QIBA6OCAV8wggFbMB8GA1UdIwQYMBaAFBCBKSrBEg1yzTWCtSFYWW73
+oEoGMB0GA1UdDgQWBBREmW10b12aZe9VMLC0/oiSTxSi2zA9BggrBgEFBQcBAQQx
+MC8wLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLmVjb25vbWlhLmdvYi5teDo4MDgy
+LzAhBgNVHREEGjAYghZhZHZhbnRhZ2Utc2VjdXJpdHkuY29tMEAGA1UdHwQ5MDcw
+NaAzoDGGL2h0dHBzOi8vd3d3LmFjcjJzZS5lY29ub21pYS5nb2IubXgvZWNvbm9t
+aWEuY3JsMFEGA1UdIARKMEgwRgYJYINkZQqCPAoBMDkwNwYIKwYBBQUHAgEWK2h0
+dHBzOi8vd3d3LmFjcjJzZS5lY29ub21pYS5nb2IubXgvY3BzLmh0bWwwEgYDVR0T
+AQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAd4wDQYJKoZIhvcNAQELBQADggIB
+AIIzCVARnmakYfkjKyXab8xahi4uSuiogyDFS+7nKFT5h8GpRGZdYFI+eBg4HVJK
+spfb5hUKDdEwVXcq1a3NscHmRYMBfgJT10VS9do258zhP1FqwUiZSrAtfdGctCJp
+ieCVMp950hJmYoBFNXVbVcwSTso+Idr6uCtulLiFTs/+ig5kydessbmexCbUHFV9
+UfApvuPRhMVx6Dy4ftZBlaxw9h246Q1oF7tiJ1oI+kkVQM6yW8N+hLUfWDMwC2gw
+acSujSCAUq6tmX+ECRFWBel9MXpQP5TRc8BvLwRKxdAZX6m0kRRqMP/SEZECZlR+
+jnyqiwjvgLuUDzFQ62RY/nbiUEFSFj0vQpTgYuoyJkwk+k91SPKnqQhV80oGAodY
+uTRBNQDKDCIJaWC4kUdkNkN+ShAf6tHFlEbboi/uY+kqLyz9qsEmnSYCXRzESxrX
+6XfAPxpY51FbClE1fUSgat2B7hjYZ27CGrxRJDwnldC1ULZuZlxZe5PxNYusG7Oj
+Y0hUKxPtvcX2QJBZCcJ28qOMDRQHH+DQDnAb8f7vy4EMGJEsZj2Lww/MsPjXocfV
+2bZPgGg3S08Be7EeTbGebIiaYh2IH1gZ2NWaH3LbTtdW4ZTOIav+MOe7eSfeH1j8
+eTPhLd51Fd8qyWqjNAJ37iaeCpHiNJlAiGzxk1nn1EZ4</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>DC = com, DC = advantage-security, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon, PostalCode = 01210, STREET = Av. Santa Fe 170, Oficina 3-2-06. Col. Lomas de Santa Fe, OU = Advantage Security PSC, O = Advantage Security, S. de R.L. de C.V., E = psc@advantage-security.com, CN = Advantage Security CA</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-08-23T19:33:49Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+						<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = acr2se@economia.gob.mx, O = Secretaria de Economia, OU = Direccion General de Normatividad Mercantil, CN = Autoridad Certificadora Raiz Segunda de Secretaria de Economia, STREET = Insurgentes Sur 1940, Col. Florida, PostalCode = 01030, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>EIEpKsESDXLNNYK1IVhZbvegSgY=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="es">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIVzCCBj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDIwODAwMDAwMFoXDTMyMDIw
+ODAwMDAwMFowggFFMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDMwMSsw
+KQYDVQQJEyJJbnN1cmdlbnRlcyBTdXIgMTk0MCwgQ29sLiBGbG9yaWRhMUcwRQYD
+VQQDEz5BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBSYWl6IFNlZ3VuZGEgZGUgU2Vj
+cmV0YXJpYSBkZSBFY29ub21pYTE0MDIGA1UECxMrRGlyZWNjaW9uIEdlbmVyYWwg
+ZGUgTm9ybWF0aXZpZGFkIE1lcmNhbnRpbDEfMB0GA1UEChMWU2VjcmV0YXJpYSBk
+ZSBFY29ub21pYTElMCMGCSqGSIb3DQEJARYWYWNyMnNlQGVjb25vbWlhLmdvYi5t
+eDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ7STNQSQx4OtwwrILp8
+5q3NJq7946EfIDnUOGhYCB1AunTm91lagotfUq+4Dd6KuRaoLf5KYlHJsT3P8WPC
+ZMoU2jgVF34AQAwXwCUtdJl2ysmWXun2pKG+VDpZToE2b1DOY00xup+ELcr2Zg7X
+eRAJjc55kLmvxZEXWQ1BurQto2s5OTKdFRtvCTculTcCF9Ur4PO6HH73Yp96YRVY
+UZYBPb4C8ULIn8Gt5+LzejWEY2YGGnPOm6F1s7X5htTXgg0RJXg0G2MzW+3AwV3e
+CnONEHQ/32kc3TG2QaY/x+18QeJwS+V0U8UX52souq2XmK0KwC2YlEyuW4kg4/iK
+CDa8WNAgvOWgh7KzKzz1T4cp1o/1jS2qV12ACTG84XoUPof9dzchvvobDuED93Zq
+RkjWcFU3qHi/Fbcj7mCRGpqrIh+aV95kkOW4fh8Qhd/4B40AiWcY8P4pqEnnyAfL
+uzkCIxihbpylDigRcfxyOw9ESsh39UsnobxrxwnxZoOSMrpY7pAAM5NINuZnbmUQ
+ut6wWCcUdDdZf6c/O0waAR/QludSnLQwom+Kol+LPPf4iJ/R4lkl+jwQ5hxZjBR/
+Wuo79trLLkQTMPM3uUWWchRT9LxJ7XD+N2C+0jGU0qrGU7xiv8Obn1CTxCD7FO94
+RTJu9neprAoLEOoLRARBzeWzAgMBAAGjggFMMIIBSDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUEIEpKsESDXLNNYK1IVhZbvegSgYw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNy
+MnNlLmVjb25vbWlhLmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglg
+g2RlCoI8CgEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25v
+bWlhLmdvYi5teC9jcHMuaHRtbDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQE
+AwIB/jARBglghkgBhvhCAQEEBAMCAAcwDQYJKoZIhvcNAQELBQADggIBAHU61OMt
+rXriQuEPnIWnLQodLAbyK/xBoO6T2cHs6H1iZwA2rjnRG8Gk3eT8biWcJhIN7NqZ
+QlxcirRId1FNZK3/m0TU8N4I3dZ2rfxJGrYD2+pzHnhtu4YGR6SpgqNvZ5LbwjqO
+B7RpwhCArrN8+kYVmtorGBJ3iaKFDM+1j782k2w1guJDUvw6bkQVYsPNxYud9IBJ
+neXxHJADJ5q5Fxv5o2WYKeBIO35id7ez4OMYRJPgFPgLMToWRux+veZliq8ePEec
+A1Kva5OaCIX1VQfL8pAByvq7oPHQV9x4/6GbbhMznzC6So0LWEx4nshRCRdChRHQ
+rdpnx+/UBl7/XAjQQ823bE0+1sldXqn0gcKoKI/IaHj7d6cui6QF9hjIfS9lyrXw
+/gpyuHZDYq6vVkXTglr5y3ayyvnWAOZM6MqSluFRG53pmes3Y1lLGNLUZHQ90kdZ
+/2WZWPqgiDs+cIfB1X+AhWRW6xJoIpbsv7L/vBVMRzGgTf8BQcZRUdvfNt9VxqPX
+0AfKjC1SiPG4+8a6ojiVqvJ43NgfLL71QFgbIY9IWkwvqUuUkrVEeqkP9mR+c9Qa
+ZQeg5/0mhHVrXQQWov4AdBwV5iZh+eW+PJry3YwbcEq57mmjyYMXhODWY0G+cOlc
+XNcAcNfwGXtcDWb+LrYFv87ko4YcC+J/pF8d</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.firmadigital.gob.mx/tramites.html</URI>
+					<URI xml:lang="es">http://www.firmadigital.gob.mx/tramites.html</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">Advantage Security CA</Name>
+						<Name xml:lang="es">Advantage Security CA</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>DC = com, DC = advantage-security, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon, PostalCode = 01210, STREET = Av. Santa Fe 170, Oficina 3-2-06. Col. Lomas de Santa Fe, OU = Advantage Security PSC, O = Advantage Security, S. de R.L. de C.V., E = psc@advantage-security.com, CN = Advantage Security CA</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>RJltdG9dmmXvVTCwtP6Ikk8Uots=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2017-08-23T19:33:49Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.1.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.1.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
+<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">Autoridad Certificadora SeguriData Privada S.A. de C.V.</Name>
+			<Name xml:lang="es">Autoridad Certificadora SeguriData Privada S.A. de C.V.</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">SeguriData Privada S.A. de C.V.</Name>
+			<Name xml:lang="es">SeguriData Privada S.A. de C.V.</Name>
+			<Name xml:lang="en">http://psc.seguridata.com/SeguriDataPSC</Name>
+			<Name xml:lang="es">http://psc.seguridata.com/SeguriDataPSC</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Insurgentes Sur No 2375 3er piso, Colonia Tizapan</StreetAddress>
+					<Locality>Alvaro Obregon</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>01000</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Insurgentes Sur No 2375 3er piso, Colonia Tizapan</StreetAddress>
+					<Locality>Alvaro Obregon</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>01000</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="es">http://psc.seguridata.com/SeguriDataPSC</URI>
+				<URI xml:lang="en">mailto:psc@seguridata.com</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.firmadigital.gob.mx/marco_juridico.html</URI>
+			<URI xml:lang="es">seguridata.com</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIImTCCBoGgAwIBAgIBHjANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDQwNTAwMDAwMFoXDTI5MDQw
+NTAwMDAwMFowggFGMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDAwMTow
+OAYDVQQJEzFJbnN1cmdlbnRlcyBTdXIgTm8gMjM3NSAzZXIgcGlzbywgQ29sb25p
+YSBUaXphcGFuMUAwPgYDVQQDEzdBdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBTZWd1
+cmlEYXRhIFByaXZhZGEgUy5BLiBkZSBDLlYuMSgwJgYDVQQLEx9TZWd1cmlEYXRh
+IFByaXZhZGEgUy5BLiBkZSBDLlYuMSgwJgYDVQQKEx9TZWd1cmlEYXRhIFByaXZh
+ZGEgUy5BLiBkZSBDLlYuMSEwHwYJKoZIhvcNAQkBFhJwc2NAc2VndXJpZGF0YS5j
+b20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDoY6OXPqNUDFBFjeiE
+mRraXUY2qrQ+iGwL9lKPO7gsBb68+yUtHYB4jc8Bd2i5QcAlINI9o7cvf4c2b84N
+tQb5e8t2eMVw8qLTTL/XcPZuGDe6Nz6/Tw24enCk8Oux4BbvYe0b9CB71HBNqNdd
+VLmpqJLRvuGqWrwgqgdub6KCQ5P55iiX03jz1L3d2P07TadfFSjLl84YUt0RWMUu
+5UUkZ+csCnJ2cOG6WTLXwVIx7utGqhwcK3YjQE6rIW6cVltRx8pgcvp/nXwal3wp
+hXHlIxcqvRuq8SQoRmYgcGy524xtmSsggZMpcXKEOsPUylo2SiuqOoz/URzvnKEG
+J7ehbcymmMmkC0VwXXv0mOF32GKvsbmLGU61ecXLFvbhQcpFFuI4Um7Kr60b+XuO
+5fkW6D7ghr8wBQilH9K24EW6c6RoEYIb7GWbpHgKs0T7539hLLf6qLaxeXcSUb6A
+3ZQFTZ6zqWxP8EK5t/5au8mW1aM+U5y1DXZauH2O7jFu/Nw5lKcylTR8Xbzqi3hI
+1OK9bhn7gW8xpLjBEhHmt+lLi0+CaOYgoafJMCF2I6kuQidbKpxKVb78kZAjsl1x
+G3zvKFyYj/Qrrj4K2+YGiDQRFnBhtUD6g6VEHcU6QDDVrndI9LX95NkmFmM5+vRG
+38zQuwptsB/l5XDOw1qor4kSnwIDAQABo4IBjTCCAYkwHwYDVR0jBBgwFoAUEIEp
+KsESDXLNNYK1IVhZbvegSgYwHQYDVR0OBBYEFI5k4Vp0wlS8FsfjlhN2kKIGvRpE
+MD0GCCsGAQUFBwEBBDEwLzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3AuZWNvbm9t
+aWEuZ29iLm14OjgwODIvMBkGA1UdEQQSMBCCDnNlZ3VyaWRhdGEuY29tMEAGA1Ud
+HwQ5MDcwNaAzoDGGL2h0dHBzOi8vd3d3LmFjcjJzZS5lY29ub21pYS5nb2IubXgv
+ZWNvbm9taWEuY3JsMIGGBgNVHSAEfzB9MHsGCWCDZGUKgjwKATBuMDcGCCsGAQUF
+BwIBFitodHRwczovL3d3dy5hY3Iyc2UuZWNvbm9taWEuZ29iLm14L2Nwcy5odG1s
+MDMGCCsGAQUFBwIBFidodHRwOi8vcHNjLnNlZ3VyaWRhdGEuY29tL1NlZ3VyaURh
+dGFQU0MwEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNVHQ8BAf8EBAMCAf4wDQYJKoZI
+hvcNAQELBQADggIBAFKWRffA8NAQ8LmkydfhGJ7QMWgyBwJNSu+x7e3RFvFng2dL
+irlybyTATNCmk+oB0nzjPNPtZ1ANHG5OpxQ+AIF8Yh95HMPQDWIDKzVA0279Zgy9
+rZMxiZicTvYuKERXzFjxf6bRUlgEeSLvAqb11W3UdNu4dPFXluQ7+xabw7qmCa8X
+InaGFcMD1+90V+tlLc1/uUtVi8d9UhF4Df1OocuSWo0Vv/n+C0kC0iKzYzaxJsIY
+W/IhPs/UzYBo0L29/7f8/+3qlsejCV6vy45ldi4SUnIjPfGODDOIh5BF3XQyvp31
+P09fge60KGFTwsTq/AojTqhTrnW0pq1ARr31UWyrtpVBF7ZaQaM0Pl7vvBDz9YE6
+GX+YgJp06+kW6R+it0biAglqi/iUQYlQRpqZ4vNY8UfqanGn1eMeF13LvwC82vsr
+WhpNW8HUMqxov8dOrMLAkqlpSBbfYfomKKnmZYsaH9wqlLgnZ658IG32Pf1K887x
+h4Bzkm/oAFejG3o4kswKC4m0PyT0iTetoSEnS1Y/f+xfkzPZcYEihYIx9/SmESgR
+yXpajt5clEbBgMosxAQNXSYvMpHJkIX/iC5YZK7eBD2ythoqigN4Gk0ueG0UgECi
+xovJH8Cqp7SZFMrPLFThzZBTza/ZZcdd9DdobGx6tw5NIs42DESY3JhJhPZR</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>E = psc@seguridata.com, O = SeguriData Privada S.A. de C.V., OU = SeguriData Privada S.A. de C.V., CN = Autoridad Certificadora SeguriData Privada S.A. de C.V., STREET = Insurgentes Sur No 2375 3er piso, Colonia Tizapan, PostalCode = 01000, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-04-05T00:00:00Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+						<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = acr2se@economia.gob.mx, O = Secretaria de Economia, OU = Direccion General de Normatividad Mercantil, CN = Autoridad Certificadora Raiz Segunda de Secretaria de Economia, STREET = Insurgentes Sur 1940, Col. Florida, PostalCode = 01030, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>EIEpKsESDXLNNYK1IVhZbvegSgY=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="es">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIVzCCBj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDIwODAwMDAwMFoXDTMyMDIw
+ODAwMDAwMFowggFFMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDMwMSsw
+KQYDVQQJEyJJbnN1cmdlbnRlcyBTdXIgMTk0MCwgQ29sLiBGbG9yaWRhMUcwRQYD
+VQQDEz5BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBSYWl6IFNlZ3VuZGEgZGUgU2Vj
+cmV0YXJpYSBkZSBFY29ub21pYTE0MDIGA1UECxMrRGlyZWNjaW9uIEdlbmVyYWwg
+ZGUgTm9ybWF0aXZpZGFkIE1lcmNhbnRpbDEfMB0GA1UEChMWU2VjcmV0YXJpYSBk
+ZSBFY29ub21pYTElMCMGCSqGSIb3DQEJARYWYWNyMnNlQGVjb25vbWlhLmdvYi5t
+eDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ7STNQSQx4OtwwrILp8
+5q3NJq7946EfIDnUOGhYCB1AunTm91lagotfUq+4Dd6KuRaoLf5KYlHJsT3P8WPC
+ZMoU2jgVF34AQAwXwCUtdJl2ysmWXun2pKG+VDpZToE2b1DOY00xup+ELcr2Zg7X
+eRAJjc55kLmvxZEXWQ1BurQto2s5OTKdFRtvCTculTcCF9Ur4PO6HH73Yp96YRVY
+UZYBPb4C8ULIn8Gt5+LzejWEY2YGGnPOm6F1s7X5htTXgg0RJXg0G2MzW+3AwV3e
+CnONEHQ/32kc3TG2QaY/x+18QeJwS+V0U8UX52souq2XmK0KwC2YlEyuW4kg4/iK
+CDa8WNAgvOWgh7KzKzz1T4cp1o/1jS2qV12ACTG84XoUPof9dzchvvobDuED93Zq
+RkjWcFU3qHi/Fbcj7mCRGpqrIh+aV95kkOW4fh8Qhd/4B40AiWcY8P4pqEnnyAfL
+uzkCIxihbpylDigRcfxyOw9ESsh39UsnobxrxwnxZoOSMrpY7pAAM5NINuZnbmUQ
+ut6wWCcUdDdZf6c/O0waAR/QludSnLQwom+Kol+LPPf4iJ/R4lkl+jwQ5hxZjBR/
+Wuo79trLLkQTMPM3uUWWchRT9LxJ7XD+N2C+0jGU0qrGU7xiv8Obn1CTxCD7FO94
+RTJu9neprAoLEOoLRARBzeWzAgMBAAGjggFMMIIBSDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUEIEpKsESDXLNNYK1IVhZbvegSgYw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNy
+MnNlLmVjb25vbWlhLmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglg
+g2RlCoI8CgEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25v
+bWlhLmdvYi5teC9jcHMuaHRtbDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQE
+AwIB/jARBglghkgBhvhCAQEEBAMCAAcwDQYJKoZIhvcNAQELBQADggIBAHU61OMt
+rXriQuEPnIWnLQodLAbyK/xBoO6T2cHs6H1iZwA2rjnRG8Gk3eT8biWcJhIN7NqZ
+QlxcirRId1FNZK3/m0TU8N4I3dZ2rfxJGrYD2+pzHnhtu4YGR6SpgqNvZ5LbwjqO
+B7RpwhCArrN8+kYVmtorGBJ3iaKFDM+1j782k2w1guJDUvw6bkQVYsPNxYud9IBJ
+neXxHJADJ5q5Fxv5o2WYKeBIO35id7ez4OMYRJPgFPgLMToWRux+veZliq8ePEec
+A1Kva5OaCIX1VQfL8pAByvq7oPHQV9x4/6GbbhMznzC6So0LWEx4nshRCRdChRHQ
+rdpnx+/UBl7/XAjQQ823bE0+1sldXqn0gcKoKI/IaHj7d6cui6QF9hjIfS9lyrXw
+/gpyuHZDYq6vVkXTglr5y3ayyvnWAOZM6MqSluFRG53pmes3Y1lLGNLUZHQ90kdZ
+/2WZWPqgiDs+cIfB1X+AhWRW6xJoIpbsv7L/vBVMRzGgTf8BQcZRUdvfNt9VxqPX
+0AfKjC1SiPG4+8a6ojiVqvJ43NgfLL71QFgbIY9IWkwvqUuUkrVEeqkP9mR+c9Qa
+ZQeg5/0mhHVrXQQWov4AdBwV5iZh+eW+PJry3YwbcEq57mmjyYMXhODWY0G+cOlc
+XNcAcNfwGXtcDWb+LrYFv87ko4YcC+J/pF8d</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.firmadigital.gob.mx/tramites.html</URI>
+					<URI xml:lang="es">http://www.firmadigital.gob.mx/tramites.html</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">Autoridad Certificadora SeguriData Privada S.A. de C.V.</Name>
+						<Name xml:lang="es">Autoridad Certificadora SeguriData Privada S.A. de C.V.</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = psc@seguridata.com, O = SeguriData Privada S.A. de C.V., OU = SeguriData Privada S.A. de C.V., CN = Autoridad Certificadora SeguriData Privada S.A. de C.V., STREET = Insurgentes Sur No 2375 3er piso, Colonia Tizapan, PostalCode = 01000, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>jmThWnTCVLwWx+OWE3aQoga9GkQ=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2017-04-05T00:00:00Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.5.1.1.2.1.1</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.5.1.1.1.1.1.1</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
+<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">ACEDICOMMX</Name>
+			<Name xml:lang="es">ACEDICOMMX</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">Edicomunicaciones Mexico S.A. de C.V.</Name>
+			<Name xml:lang="es">Edicomunicaciones Mexico S.A. de C.V.</Name>
+			<Name xml:lang="en">http://edicomgroup.com</Name>
+			<Name xml:lang="es">http://edicomgroup.com</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Avda. Paseo de la Reforma 483 Pisos 25-27 Cuauhtemoc</StreetAddress>
+					<Locality>Cuauhtemoc</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>06500</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Avda. Paseo de la Reforma 483 Pisos 25-27 Cuauhtemoc</StreetAddress>
+					<Locality>Cuauhtemoc</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>06500</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="es">http://edicomgroup.com</URI>
+				<URI xml:lang="en">mailto:acedicommx@edicomgroup.com</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.firmadigital.gob.mx/marco_juridico.html</URI>
+			<URI xml:lang="es">edicomgroup.com</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIKDCCBhCgAwIBAgIBNTANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MTAxNjE3MzUwN1oXDTI3MTAx
+NDE3MzUwN1owggEKMQswCQYDVQQGEwJNWDEZMBcGA1UECBMQQ2l1ZGFkIGRlIE1l
+eGljbzETMBEGA1UEBxMKQ3VhdWh0ZW1vYzEuMCwGA1UEChMlRWRpY29tdW5pY2Fj
+aW9uZXMgTWV4aWNvIFMuQS4gZGUgQy5WLjEMMAoGA1UECxMDUEtJMRMwEQYDVQQD
+EwpBQ0VESUNPTU1YMSkwJwYJKoZIhvcNAQkBFhphY2VkaWNvbW14QGVkaWNvbWdy
+b3VwLmNvbTEOMAwGA1UEERMFMDY1MDAxPTA7BgNVBAkTNEF2ZGEuIFBhc2VvIGRl
+IGxhIFJlZm9ybWEgNDgzIFBpc29zIDI1LTI3IEN1YXVodGVtb2MwggIiMA0GCSqG
+SIb3DQEBAQUAA4ICDwAwggIKAoICAQC86EF7oupBjSECEhB5MYsDfQ6+sL1wQYVx
+Oh1xU5Hrzo2y4PoW4TDZ8FlIS7qxLCo7bCt8p7bwhxxiX6VNHCezHXpAuFqhKeJA
+woV+/dYHH3t0qA8hx9aQOwv4RwpnHjlt+ApaXtHkJBK/bboa2YK+KpCylMBI5u32
+Dky/v793AA1ZBXWaCHKF9pVvlyMRPGTNa4RVWodCqwuQXRezb/kyKNU8DZ42GqcK
+6EC/fWnTYrFyzHkwdBYa60mBIHQicour+X4g6LFkBwe02DxHPlbS7mPmIFc1JOOy
+/i0v1ptR7krtBGCChEgUydNnqurQAIhnWvWdAcfJgzM7VLnPlftB52ekN6DhbTSJ
+btKUw16C3biZoaAqUhODJcmf/1omxLsdGbwnIahWvZgpme76MR9uWM1JTu7U3Vi4
+AHzrpidty/eEWC6taKMOIG8T28V2QQcuHSaNA3VmEZelfkCZMCq6GYL5WFqN1MPQ
+P/rYDUpgmrsLyhs9k+ITVsKrHt5epUp1Zez1ED5EGMPod9NRjlEvHr89KHhnAu2k
+cKyhfashZodUeBTywsF1/XWGYHKS/EiFAoWFcMKmA2FbmdgkMdek4VrI/+3RF9sm
+p8v8H6FKGUMjKdOp1eypgVjplqZOujuuXNKl60kn8vNGIg9FAIPCh0tweQ8IwJpO
+kh1CuWpaHQIDAQABo4IBWDCCAVQwHwYDVR0jBBgwFoAUEIEpKsESDXLNNYK1IVhZ
+bvegSgYwHQYDVR0OBBYEFJ2E5V+ndKHenWdmmcs4NIlSK3QvMD0GCCsGAQUFBwEB
+BDEwLzAtBggrBgEFBQcwAYYhaHR0cDovL29jc3AuZWNvbm9taWEuZ29iLm14Ojgw
+ODIvMBoGA1UdEQQTMBGCD2VkaWNvbWdyb3VwLmNvbTBABgNVHR8EOTA3MDWgM6Ax
+hi9odHRwczovL3d3dy5hY3Iyc2UuZWNvbm9taWEuZ29iLm14L2Vjb25vbWlhLmNy
+bDBRBgNVHSAESjBIMEYGCWCDZGUKgjwKATA5MDcGCCsGAQUFBwIBFitodHRwczov
+L3d3dy5hY3Iyc2UuZWNvbm9taWEuZ29iLm14L2Nwcy5odG1sMBIGA1UdEwEB/wQI
+MAYBAf8CAQAwDgYDVR0PAQH/BAQDAgHeMA0GCSqGSIb3DQEBCwUAA4ICAQA/qNGL
+yMgKpkc1yIfVWhov9343RDDFU2wDWQlSKoUQOvozAmt+i0HoJNrAPBs/RkoUjv4G
+qxlX7V28bRwj7h1Y+vRSmeNzOvn9KjyRn6UvftU9i8HdvWNgVwDUbYGwBRjoAY/n
+cN6B0sWjAB7p3yQsWdYJnkwdhwPUrRQ74rh5d0C1uE9iq2v0ZPtlgEDmcrZwNmL6
+fhLjCPhjcd0Ew6kYfKeBW2fTxKCd8oDCJ+1eLqyTN9p15gOuWdVJJQURXJYcE69r
+X1os/AFuq62f0LxFPnLpOwtrbwOtVPLoyo0B2pf2EzWB5/+FVMKTj60Bej5YwZ97
+qKLMpRuj+tsiRu/kuQ/rwetCr8JAO9PXmJTyIFvTtPtQIbHsTvPDJ/gBpqnlB9v6
+fJtpPBS/nM/6X27TT+3zqLo2KMJ2mYqcPEQYvQB10IcBpkvVYMEEz0HjcdNi6oEX
++cJcibubVHBGxruT8mq7IKWxxn2Sgoe7KVPJ9qirX6ueQP+z6tgvMOS2AtYlolgK
+7xTsthJGvGgwIEd1kLE3yLobaEjV50UyhzJz6wR7mRocCLBuPh1IuDNRIAaj9NuE
+P4ayvfvZOVnH90wV/XGyTCvXaFVZ0IjCDDEI17PeHhXOxk1Q3mlhprIch3ultsHv
+xHIE3sIVdOPIE4QcTUJfOeqxvGG8O83RVuXsYw==</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>STREET = Avda. Paseo de la Reforma 483 Pisos 25-27 Cuauhtemoc, PostalCode = 06500, E = acedicommx@edicomgroup.com, CN = ACEDICOMMX, OU = PKI, O = Edicomunicaciones Mexico S.A. de C.V., L = Cuauhtemoc, S = Ciudad de Mexico, C = MX</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-10-16T17:35:07Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+						<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = acr2se@economia.gob.mx, O = Secretaria de Economia, OU = Direccion General de Normatividad Mercantil, CN = Autoridad Certificadora Raiz Segunda de Secretaria de Economia, STREET = Insurgentes Sur 1940, Col. Florida, PostalCode = 01030, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>EIEpKsESDXLNNYK1IVhZbvegSgY=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="es">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIVzCCBj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDIwODAwMDAwMFoXDTMyMDIw
+ODAwMDAwMFowggFFMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDMwMSsw
+KQYDVQQJEyJJbnN1cmdlbnRlcyBTdXIgMTk0MCwgQ29sLiBGbG9yaWRhMUcwRQYD
+VQQDEz5BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBSYWl6IFNlZ3VuZGEgZGUgU2Vj
+cmV0YXJpYSBkZSBFY29ub21pYTE0MDIGA1UECxMrRGlyZWNjaW9uIEdlbmVyYWwg
+ZGUgTm9ybWF0aXZpZGFkIE1lcmNhbnRpbDEfMB0GA1UEChMWU2VjcmV0YXJpYSBk
+ZSBFY29ub21pYTElMCMGCSqGSIb3DQEJARYWYWNyMnNlQGVjb25vbWlhLmdvYi5t
+eDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ7STNQSQx4OtwwrILp8
+5q3NJq7946EfIDnUOGhYCB1AunTm91lagotfUq+4Dd6KuRaoLf5KYlHJsT3P8WPC
+ZMoU2jgVF34AQAwXwCUtdJl2ysmWXun2pKG+VDpZToE2b1DOY00xup+ELcr2Zg7X
+eRAJjc55kLmvxZEXWQ1BurQto2s5OTKdFRtvCTculTcCF9Ur4PO6HH73Yp96YRVY
+UZYBPb4C8ULIn8Gt5+LzejWEY2YGGnPOm6F1s7X5htTXgg0RJXg0G2MzW+3AwV3e
+CnONEHQ/32kc3TG2QaY/x+18QeJwS+V0U8UX52souq2XmK0KwC2YlEyuW4kg4/iK
+CDa8WNAgvOWgh7KzKzz1T4cp1o/1jS2qV12ACTG84XoUPof9dzchvvobDuED93Zq
+RkjWcFU3qHi/Fbcj7mCRGpqrIh+aV95kkOW4fh8Qhd/4B40AiWcY8P4pqEnnyAfL
+uzkCIxihbpylDigRcfxyOw9ESsh39UsnobxrxwnxZoOSMrpY7pAAM5NINuZnbmUQ
+ut6wWCcUdDdZf6c/O0waAR/QludSnLQwom+Kol+LPPf4iJ/R4lkl+jwQ5hxZjBR/
+Wuo79trLLkQTMPM3uUWWchRT9LxJ7XD+N2C+0jGU0qrGU7xiv8Obn1CTxCD7FO94
+RTJu9neprAoLEOoLRARBzeWzAgMBAAGjggFMMIIBSDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUEIEpKsESDXLNNYK1IVhZbvegSgYw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNy
+MnNlLmVjb25vbWlhLmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglg
+g2RlCoI8CgEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25v
+bWlhLmdvYi5teC9jcHMuaHRtbDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQE
+AwIB/jARBglghkgBhvhCAQEEBAMCAAcwDQYJKoZIhvcNAQELBQADggIBAHU61OMt
+rXriQuEPnIWnLQodLAbyK/xBoO6T2cHs6H1iZwA2rjnRG8Gk3eT8biWcJhIN7NqZ
+QlxcirRId1FNZK3/m0TU8N4I3dZ2rfxJGrYD2+pzHnhtu4YGR6SpgqNvZ5LbwjqO
+B7RpwhCArrN8+kYVmtorGBJ3iaKFDM+1j782k2w1guJDUvw6bkQVYsPNxYud9IBJ
+neXxHJADJ5q5Fxv5o2WYKeBIO35id7ez4OMYRJPgFPgLMToWRux+veZliq8ePEec
+A1Kva5OaCIX1VQfL8pAByvq7oPHQV9x4/6GbbhMznzC6So0LWEx4nshRCRdChRHQ
+rdpnx+/UBl7/XAjQQ823bE0+1sldXqn0gcKoKI/IaHj7d6cui6QF9hjIfS9lyrXw
+/gpyuHZDYq6vVkXTglr5y3ayyvnWAOZM6MqSluFRG53pmes3Y1lLGNLUZHQ90kdZ
+/2WZWPqgiDs+cIfB1X+AhWRW6xJoIpbsv7L/vBVMRzGgTf8BQcZRUdvfNt9VxqPX
+0AfKjC1SiPG4+8a6ojiVqvJ43NgfLL71QFgbIY9IWkwvqUuUkrVEeqkP9mR+c9Qa
+ZQeg5/0mhHVrXQQWov4AdBwV5iZh+eW+PJry3YwbcEq57mmjyYMXhODWY0G+cOlc
+XNcAcNfwGXtcDWb+LrYFv87ko4YcC+J/pF8d</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.firmadigital.gob.mx/tramites.html</URI>
+					<URI xml:lang="es">http://www.firmadigital.gob.mx/tramites.html</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">http://edicomgroup.com</Name>
+						<Name xml:lang="es">http://edicomgroup.com</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>STREET = Avda. Paseo de la Reforma 483 Pisos 25-27 Cuauhtemoc, PostalCode = 06500, E = acedicommx@edicomgroup.com, CN = ACEDICOMMX, OU = PKI, O = Edicomunicaciones Mexico S.A. de C.V., L = Cuauhtemoc, S = Ciudad de Mexico, C = MX</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>nYTlX6d0od6dZ2aZyzg0iVIrdC8=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2017-10-16T17:35:07Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.4.1.1.1.1.1.3</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.4.1.1.1.2.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
+<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">Autoridad Certificadora Cecoban</Name>
+			<Name xml:lang="es">Autoridad Certificadora Cecoban</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">Cecoban SA de CV</Name>
+			<Name xml:lang="es">Cecoban SA de CV</Name>
+			<Name xml:lang="en">http://cecoban.com</Name>
+			<Name xml:lang="es">http://cecoban.com</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Constituyentes 119</StreetAddress>
+					<Locality>Miguel Hidalgo</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>11850</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Constituyentes 119</StreetAddress>
+					<Locality>Miguel Hidalgo</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>11850</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="es">http://cecoban.com/SeguriDataPSC</URI>
+				<URI xml:lang="en">mailto:ac_cecoban@cecoban.org.mx</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.firmadigital.gob.mx/marco_juridico.html</URI>
+			<URI xml:lang="es">cecoban.com</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIczCCBlugAwIBAgIBPzANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE4MDgyMzIxNTMyMFoXDTI4MDgy
+MzIxNTMyMFowggFFMSgwJgYDVQQDDB9BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBD
+ZWNvYmFuMR8wHQYJKoZIhvcNAQkCDBBDZWNvYmFuIFNBIGRlIENWMR8wHQYJKoZI
+hvcNAQkCDBBDZWNvYmFuIFNBIGRlIENWMSgwJgYJKoZIhvcNAQkBFhlhY19jZWNv
+YmFuQGNlY29iYW4ub3JnLm14MRkwFwYDVQQKDBBDZWNvYmFuIFNBIGRlIENWMTAw
+LgYDVQQLDCdQcmVzdGFkb3IgZGUgU2VydmljaW9zIGRlIENlcnRpZmljYWNpb24x
+GzAZBgNVBAkMEkNvbnN0aXR1eWVudGVzIDExOTEOMAwGA1UEEQwFMTE4NTAxFzAV
+BgNVBAcMDk1pZ3VlbCBIaWRhbGdvMQ0wCwYDVQQIDARDRE1YMQswCQYDVQQGEwJN
+WDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJxIhosaREBlrSKndblw
+dIygEG7gotnM5YCYrDpkImv2b6eZFEEKO2vKTCD0o3TiKNbCrZmiHnABZ1wkWbKa
+Fr+7D0aln/cD0sHa3iHLfTVq8Mg3NjihxhGgbMnvI+Ezljqrt3CAH/yaEL9TQ7EJ
+zT3iw6tUbIIh1lCSJ06Kdl48p//uP6rYiBlDZq50+O/6PKkhIvSmL7Rqt8dQwPLe
+iJj0ViOdkMjjMXtVn559x5xyIdPBAQGr51lHMoz8lJs1dXIL+Ckw+F42qXO8SK3C
+4lA8gGVozdUBtwaorv0LH2vYBK/Oji+Hit0ytMyyqm/wT5U4exVLLMSb6fQxQCp+
+8Z5YC/AvHHmtCddmQi4iq5ka3A8MrJnm7TFIm2XP2TJ0OoKKkbevN/Sr4K76Tnbb
+DWkOjCpX6ND8hsA85d4WLCmMMfT8HHHxHEl00X/+JTQ94aSCtDyC8PzgS66ebKvb
+Hgw1Ru5Gb+U1UQMU39W2hfT0AbUadzP1k0t18HjaZcP8vyfGdT1nlq9d3sEmkjjg
+r8Es32+vGGzlmzQQ88ewIsXDQVAcbixVzZ9cu0yAsfsH1kRINGKn+TEyuMLF3Svf
+nFSzLxRil1I2UmVvV+cT9jzyfWfKOs03D2JjKO/XqJj2RT2RFJzwdXTpmc7tb7xv
+ifUnBxlGlY+PUJ0KpSwkMZnPAgMBAAGjggFoMIIBZDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUIZJWY2ttYyjLt1ZAzRdbMdLBOJkw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wLQYDVR0RBCYwJIESY2NlQGNlY29iYW4ub3JnLm14gg5j
+ZWNvYmFuLm9yZy5teDBABgNVHR8EOTA3MDWgM6Axhi9odHRwczovL3d3dy5hY3Iy
+c2UuZWNvbm9taWEuZ29iLm14L2Vjb25vbWlhLmNybDBRBgNVHSAESjBIMEYGCWCD
+ZGUKgjwKATA5MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy5hY3Iyc2UuZWNvbm9t
+aWEuZ29iLm14L2Nwcy5odG1sMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQD
+AgHeMA0GCSqGSIb3DQEBCwUAA4ICAQBB9RiR/XK/+XNTxlscHCzGaVXW+QnlVHl6
+uqDD0jPo806MZPsyBUzASVuai4jCKZsQmbIVWH/DlT2FbFMghZwJVHLoquiZFdXo
+fAZNjo7fwLGqay1/uvzn5D6ajyELGAuUlnhVRjqELJGGhVW3LAQQ4vTPdjjC2bBz
+b8SjsuxHKmk3XWv2Owu5Z6mNVR/VgNkGUb2qs1ahH1igai/n8G24sJqk+0r6AeRF
+LZm3+szaJyJnKoBkHNlU08KqL4jGlhmzoERJPiLQWRFze2ecY1X9Qp0lvnifzexH
+sJUW4Ug8m+yqT/dMnCKgOc7jvsxBTmHYKVToX1CfQYbwpNvJURdtTyxfM07I/i9H
+6UJFWx8vQqQ0S61t7AlYFbgV5bX95nOaShcjlMAULbz8yO2JKncuBlqugZ5Faw2+
+h4vzEbeEdqP/0Ah9MwjYxN//pKG07iZv54jE8SUxCchMT9bLim5VvndFTaptisDl
+RwK+5N03mYv9kuyJ9pKXSe6ElRV5JIXitQSIrQ398cDWaKFEvnaTIgzKDbtWKlV2
+5Yzn+b2kbAR/HRq97dfqNIKPoBKA1ynGWjKuXJtKT8vg6ywWNLtvPxpYyq6XVh9Z
+eCoo63IzggNoWa7bMaxMeIumJu2+L+16DRUFckXC1BWIY/pguC5qZtBTdOjDWSzK
+ELAcydtcyw==</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>C = MX, S = CDMX, L = Miguel Hidalgo, PostalCode = 11850, STREET = Constituyentes 119, OU = Prestador de Servicios de Certificacion, O = Cecoban SA de CV, E = ac_cecoban@cecoban.org.mx, Nombre no estructurado = Cecoban SA de CV, Nombre no estructurado = Cecoban SA de CV, CN = Autoridad Certificadora Cecoban</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2018-08-23T21:53:20Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+						<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = acr2se@economia.gob.mx, O = Secretaria de Economia, OU = Direccion General de Normatividad Mercantil, CN = Autoridad Certificadora Raiz Segunda de Secretaria de Economia, STREET = Insurgentes Sur 1940, Col. Florida, PostalCode = 01030, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>EIEpKsESDXLNNYK1IVhZbvegSgY=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="es">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIVzCCBj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDIwODAwMDAwMFoXDTMyMDIw
+ODAwMDAwMFowggFFMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDMwMSsw
+KQYDVQQJEyJJbnN1cmdlbnRlcyBTdXIgMTk0MCwgQ29sLiBGbG9yaWRhMUcwRQYD
+VQQDEz5BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBSYWl6IFNlZ3VuZGEgZGUgU2Vj
+cmV0YXJpYSBkZSBFY29ub21pYTE0MDIGA1UECxMrRGlyZWNjaW9uIEdlbmVyYWwg
+ZGUgTm9ybWF0aXZpZGFkIE1lcmNhbnRpbDEfMB0GA1UEChMWU2VjcmV0YXJpYSBk
+ZSBFY29ub21pYTElMCMGCSqGSIb3DQEJARYWYWNyMnNlQGVjb25vbWlhLmdvYi5t
+eDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ7STNQSQx4OtwwrILp8
+5q3NJq7946EfIDnUOGhYCB1AunTm91lagotfUq+4Dd6KuRaoLf5KYlHJsT3P8WPC
+ZMoU2jgVF34AQAwXwCUtdJl2ysmWXun2pKG+VDpZToE2b1DOY00xup+ELcr2Zg7X
+eRAJjc55kLmvxZEXWQ1BurQto2s5OTKdFRtvCTculTcCF9Ur4PO6HH73Yp96YRVY
+UZYBPb4C8ULIn8Gt5+LzejWEY2YGGnPOm6F1s7X5htTXgg0RJXg0G2MzW+3AwV3e
+CnONEHQ/32kc3TG2QaY/x+18QeJwS+V0U8UX52souq2XmK0KwC2YlEyuW4kg4/iK
+CDa8WNAgvOWgh7KzKzz1T4cp1o/1jS2qV12ACTG84XoUPof9dzchvvobDuED93Zq
+RkjWcFU3qHi/Fbcj7mCRGpqrIh+aV95kkOW4fh8Qhd/4B40AiWcY8P4pqEnnyAfL
+uzkCIxihbpylDigRcfxyOw9ESsh39UsnobxrxwnxZoOSMrpY7pAAM5NINuZnbmUQ
+ut6wWCcUdDdZf6c/O0waAR/QludSnLQwom+Kol+LPPf4iJ/R4lkl+jwQ5hxZjBR/
+Wuo79trLLkQTMPM3uUWWchRT9LxJ7XD+N2C+0jGU0qrGU7xiv8Obn1CTxCD7FO94
+RTJu9neprAoLEOoLRARBzeWzAgMBAAGjggFMMIIBSDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUEIEpKsESDXLNNYK1IVhZbvegSgYw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNy
+MnNlLmVjb25vbWlhLmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglg
+g2RlCoI8CgEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25v
+bWlhLmdvYi5teC9jcHMuaHRtbDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQE
+AwIB/jARBglghkgBhvhCAQEEBAMCAAcwDQYJKoZIhvcNAQELBQADggIBAHU61OMt
+rXriQuEPnIWnLQodLAbyK/xBoO6T2cHs6H1iZwA2rjnRG8Gk3eT8biWcJhIN7NqZ
+QlxcirRId1FNZK3/m0TU8N4I3dZ2rfxJGrYD2+pzHnhtu4YGR6SpgqNvZ5LbwjqO
+B7RpwhCArrN8+kYVmtorGBJ3iaKFDM+1j782k2w1guJDUvw6bkQVYsPNxYud9IBJ
+neXxHJADJ5q5Fxv5o2WYKeBIO35id7ez4OMYRJPgFPgLMToWRux+veZliq8ePEec
+A1Kva5OaCIX1VQfL8pAByvq7oPHQV9x4/6GbbhMznzC6So0LWEx4nshRCRdChRHQ
+rdpnx+/UBl7/XAjQQ823bE0+1sldXqn0gcKoKI/IaHj7d6cui6QF9hjIfS9lyrXw
+/gpyuHZDYq6vVkXTglr5y3ayyvnWAOZM6MqSluFRG53pmes3Y1lLGNLUZHQ90kdZ
+/2WZWPqgiDs+cIfB1X+AhWRW6xJoIpbsv7L/vBVMRzGgTf8BQcZRUdvfNt9VxqPX
+0AfKjC1SiPG4+8a6ojiVqvJ43NgfLL71QFgbIY9IWkwvqUuUkrVEeqkP9mR+c9Qa
+ZQeg5/0mhHVrXQQWov4AdBwV5iZh+eW+PJry3YwbcEq57mmjyYMXhODWY0G+cOlc
+XNcAcNfwGXtcDWb+LrYFv87ko4YcC+J/pF8d</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.firmadigital.gob.mx/tramites.html</URI>
+					<URI xml:lang="es">http://www.firmadigital.gob.mx/tramites.html</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">Autoridad Certificadora Cecoban</Name>
+						<Name xml:lang="es">Autoridad Certificadora Cecoban</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>C = MX, S = CDMX, L = Miguel Hidalgo, PostalCode = 11850, STREET = Constituyentes 119, OU = Prestador de Servicios de Certificacion, O = Cecoban SA de CV, E = ac_cecoban@cecoban.org.mx, Nombre no estructurado = Cecoban SA de CV, Nombre no estructurado = Cecoban SA de CV, CN = Autoridad Certificadora Cecoban</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>IZJWY2ttYyjLt1ZAzRdbMdLBOJk=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2018-08-23T21:53:20Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.3.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.3.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
+<TrustServiceProvider>
+    <TSPInformation>
+        <TSPName>
+			<Name xml:lang="en">PSC World AC</Name>
+			<Name xml:lang="es">PSC World AC</Name>
+		</TSPName>
+		<TSPTradeName>
+			<Name xml:lang="en">PSCWORLD-AC4</Name>
+			<Name xml:lang="es">PSCWORLD-AC4</Name>
+			<Name xml:lang="en">PSC World S.A. de C.V.</Name>
+			<Name xml:lang="es">PSC World S.A. de C.V.</Name>
+		</TSPTradeName>
+		<TSPAddress>
+			<PostalAddresses>
+				<PostalAddress xml:lang="es">
+					<StreetAddress>Morelos 7 Nivel 3</StreetAddress>
+					<Locality>Coyoacan</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>04100</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+				<PostalAddress xml:lang="en">
+					<StreetAddress>Morelos 7 Nivel 3</StreetAddress>
+					<Locality>Coyoacan</Locality>
+					<StateOrProvince>Ciudad de Mexico</StateOrProvince>
+					<PostalCode>04100</PostalCode>
+					<CountryName>MX</CountryName>
+				</PostalAddress>
+			</PostalAddresses>
+			<ElectronicAddress>
+				<URI xml:lang="es">http://www.pscworld.com/acdemexico</URI>
+				<URI xml:lang="en">mailto:servicios@pscworld.com.mx</URI>
+			</ElectronicAddress>
+		</TSPAddress>
+		<TSPInformationURI>
+			<URI xml:lang="en">http://www.firmadigital.gob.mx/marco_juridico.html</URI>
+			<URI xml:lang="es">pscworld.com</URI>
+		</TSPInformationURI>
+	</TSPInformation>
+	<TSPServices>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIOzCCBiOgAwIBAgIBOjANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MTIxNTE5MDEzMVoXDTI3MTIx
+NTE5MTExNFowggEPMREwDwYDVQQHEwhDb3lvYWNhbjEZMBcGA1UECBMQQ2l1ZGFk
+IGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTA0MTAwMRowGAYDVQQJ
+ExFNb3JlbG9zIDcgTml2ZWwgMzEVMBMGA1UECxMMUFNDIFdvcmxkIEFDMR8wHQYD
+VQQKExZQU0MgV29ybGQgUy5BLiBkZSBDLlYuMSgwJgYJKoZIhvcNAQkBFhlzZXJ2
+aWNpb3NAcHNjd29ybGQuY29tLm14MRMwEQYKCZImiZPyLGQBGRYDY29tMRgwFgYK
+CZImiZPyLGQBGRYIcHNjd29ybGQxFTATBgNVBAMTDFBTQ1dPUkxELUFDNDCCAiIw
+DQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ2G1BtYogE/Z5Rfq3br/3gxq8GR
+M9UtoqTUTZzVkVJ60aXtVtFjEntzWU8Baot0pHBPNozeJiIrPWXlH2NfqnTuBFA1
+XzjTAJ1up8vDeJjg2ci3GetjlghDurTjdAoOE0bNq9i7WDSmFGh5m0OIeuXC7xG2
+QLLfRoBMGakb90aNy94Ug675ZaCADAiZr/7p2BGAMv6OYvNWH9M1mJt9iH9AszNl
+J4xPb9DJeV6kNSEhZt7bbdZQ+f5KszdDxd/FqGMTSrmpk/jMrffIlV9YL0tmJ9iG
+b0Xv7lpwMJxkWbx3WbG20pE519MY01sjtnmqkaBxa4+dZOBntHhcUo/jV9bfvwLk
+k9Zd3Rbp9gesK3jNf6NBkWA0DKBvNUt2J/t065cWWC1xaXHytyumVBqnI7RtKtEa
+eAXG0BDjqWQsjFJJfvxjSl2ayPdg1684bbgJVklSfZp5z/Ik2Sy1KlnF89XimWH8
+lsQFnaPjZryOER3TtRk0IV7uN4J7HhN5j7/0+Bw663V9QZOSZpPPCUEW4Mz3OvmK
++B8sI7A6icyx7Q3fujt/qvJIJpzE04/mGKuMBzNN+7UJQqcPike5fXLYdMIiSKBY
+dx5naB93fFFHtVEUqzYzaqr92BDs1x+OT8+tUOFUdOEODVR1rVfcRngoHhWxyJ0L
+xaIY3C7HPW8zMYY5AgMBAAGjggFmMIIBYjATBgkrBgEEAYI3FQEEBgIEAAAAATAf
+BgNVHSMEGDAWgBQQgSkqwRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQU8O7OS9Y0
+D0D6wvvbv2bBksIihv4wEwYJKwYBBAGCNxQCBAYeBABDAEEwPQYIKwYBBQUHAQEE
+MTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21pYS5nb2IubXg6ODA4
+Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNyMnNlLmVjb25vbWlh
+LmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglgg2RlCoI8CgEwOTA3
+BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25vbWlhLmdvYi5teC9j
+cHMuaHRtbDASBgNVHRMBAf8ECDAGAQH/AgEAMA4GA1UdDwEB/wQEAwIB3jANBgkq
+hkiG9w0BAQsFAAOCAgEAP4sT6mPexkD3fEvTl9wzPUZubhWXUSnaxS5fSc0F983h
+RJeFnDLG65bsk+6fhJAu7nz2jNrvVVLeFMSc3ko9JHmrI++toekkr4n+mhe0shc3
+5uu4YmtoibO5Nw0zOc9ZKEOOdcsAhljJ4DUdyssriIy/H2qnJ5JOSNe3ZSqI6iNP
+eme6Icw1lg37m/2sQpj8jVNfnBUCYDaulE/LrxatEQv6YFYC1lYtNVEzSwGiKd4/
+Qz5GcnSQdW7vd9xv/LRDw8Y6zCuJyA7Hv9GtH1qFZwmM7RqzrhX2W/38yoDLT+GL
+T5MAcBk55vyhThqZi6Nrq1Pr0afN7kwJzVjrpyZrCpkFL/rhYCN26FLEIrR1Wgh+
+ochETo4D8pHjbQK+UwxL5wfFyEtbZXiHJaaoHk8yvXHJR5Cg49M74HmPEc0ZXy9i
+8i206tbq8RZM6Ud5/Yj0ZbiSz14yrCyKBhyyGUFIJqtjLxmbTd3EOVhtZx/J++iH
+NaRok7iWDJe0eowDttkM9zSVuTZhQExRAA+MaTpS3c5/Z1G4v4Kj1OXHIQsg7A/G
+bnNqA7PSUCGCdp9f4tX7C+0e9Ksbld4UNL9cEgCcU6u6erkXEXkIxkOZI8IzZ8yj
+aM2v6xoikZgT98d9qkrITnwF7sTUlmWORwJaPUIpTu8q8hV2uCaRLXF3EBREFY4=</X509Certificate>
+					</DigitalId>
+					<DigitalId>
+						<X509SubjectName>CN = PSCWORLD-AC4, DC = pscworld, DC = com, E = servicios@pscworld.com.mx, O = PSC World S.A. de C.V., OU = PSC World AC, STREET = Morelos 7 Nivel 3, PostalCode = 04100, C = MX, S = Ciudad de Mexico, L = Coyoacan</X509SubjectName>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-12-15T19:01:31Z</StatusStartingTime>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="es">Certificados Reconocidos emitidos por Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+						<Name xml:lang="en">Qualified Certificates issued by Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>E = acr2se@economia.gob.mx, O = Secretaria de Economia, OU = Direccion General de Normatividad Mercantil, CN = Autoridad Certificadora Raiz Segunda de Secretaria de Economia, STREET = Insurgentes Sur 1940, Col. Florida, PostalCode = 01030, C = MX, S = Ciudad de Mexico, L = Alvaro Obregon</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>EIEpKsESDXLNNYK1IVhZbvegSgY=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/supervisionceased</ServiceStatus>
+					<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+		<TSPService>
+			<ServiceInformation>
+				<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+				<ServiceName>
+					<Name xml:lang="en">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+					<Name xml:lang="es">Autoridad Certificadora Raiz Segunda de Secretaria de Economia</Name>
+				</ServiceName>
+				<ServiceDigitalIdentity>
+					<DigitalId>
+						<X509Certificate>MIIIVzCCBj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADCCAUUxFzAVBgNVBAcTDkFs
+dmFybyBPYnJlZ29uMRkwFwYDVQQIExBDaXVkYWQgZGUgTWV4aWNvMQswCQYDVQQG
+EwJNWDEOMAwGA1UEERMFMDEwMzAxKzApBgNVBAkTIkluc3VyZ2VudGVzIFN1ciAx
+OTQwLCBDb2wuIEZsb3JpZGExRzBFBgNVBAMTPkF1dG9yaWRhZCBDZXJ0aWZpY2Fk
+b3JhIFJhaXogU2VndW5kYSBkZSBTZWNyZXRhcmlhIGRlIEVjb25vbWlhMTQwMgYD
+VQQLEytEaXJlY2Npb24gR2VuZXJhbCBkZSBOb3JtYXRpdmlkYWQgTWVyY2FudGls
+MR8wHQYDVQQKExZTZWNyZXRhcmlhIGRlIEVjb25vbWlhMSUwIwYJKoZIhvcNAQkB
+FhZhY3Iyc2VAZWNvbm9taWEuZ29iLm14MB4XDTE3MDIwODAwMDAwMFoXDTMyMDIw
+ODAwMDAwMFowggFFMRcwFQYDVQQHEw5BbHZhcm8gT2JyZWdvbjEZMBcGA1UECBMQ
+Q2l1ZGFkIGRlIE1leGljbzELMAkGA1UEBhMCTVgxDjAMBgNVBBETBTAxMDMwMSsw
+KQYDVQQJEyJJbnN1cmdlbnRlcyBTdXIgMTk0MCwgQ29sLiBGbG9yaWRhMUcwRQYD
+VQQDEz5BdXRvcmlkYWQgQ2VydGlmaWNhZG9yYSBSYWl6IFNlZ3VuZGEgZGUgU2Vj
+cmV0YXJpYSBkZSBFY29ub21pYTE0MDIGA1UECxMrRGlyZWNjaW9uIEdlbmVyYWwg
+ZGUgTm9ybWF0aXZpZGFkIE1lcmNhbnRpbDEfMB0GA1UEChMWU2VjcmV0YXJpYSBk
+ZSBFY29ub21pYTElMCMGCSqGSIb3DQEJARYWYWNyMnNlQGVjb25vbWlhLmdvYi5t
+eDCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAJ7STNQSQx4OtwwrILp8
+5q3NJq7946EfIDnUOGhYCB1AunTm91lagotfUq+4Dd6KuRaoLf5KYlHJsT3P8WPC
+ZMoU2jgVF34AQAwXwCUtdJl2ysmWXun2pKG+VDpZToE2b1DOY00xup+ELcr2Zg7X
+eRAJjc55kLmvxZEXWQ1BurQto2s5OTKdFRtvCTculTcCF9Ur4PO6HH73Yp96YRVY
+UZYBPb4C8ULIn8Gt5+LzejWEY2YGGnPOm6F1s7X5htTXgg0RJXg0G2MzW+3AwV3e
+CnONEHQ/32kc3TG2QaY/x+18QeJwS+V0U8UX52souq2XmK0KwC2YlEyuW4kg4/iK
+CDa8WNAgvOWgh7KzKzz1T4cp1o/1jS2qV12ACTG84XoUPof9dzchvvobDuED93Zq
+RkjWcFU3qHi/Fbcj7mCRGpqrIh+aV95kkOW4fh8Qhd/4B40AiWcY8P4pqEnnyAfL
+uzkCIxihbpylDigRcfxyOw9ESsh39UsnobxrxwnxZoOSMrpY7pAAM5NINuZnbmUQ
+ut6wWCcUdDdZf6c/O0waAR/QludSnLQwom+Kol+LPPf4iJ/R4lkl+jwQ5hxZjBR/
+Wuo79trLLkQTMPM3uUWWchRT9LxJ7XD+N2C+0jGU0qrGU7xiv8Obn1CTxCD7FO94
+RTJu9neprAoLEOoLRARBzeWzAgMBAAGjggFMMIIBSDAfBgNVHSMEGDAWgBQQgSkq
+wRINcs01grUhWFlu96BKBjAdBgNVHQ4EFgQUEIEpKsESDXLNNYK1IVhZbvegSgYw
+PQYIKwYBBQUHAQEEMTAvMC0GCCsGAQUFBzABhiFodHRwOi8vb2NzcC5lY29ub21p
+YS5nb2IubXg6ODA4Mi8wQAYDVR0fBDkwNzA1oDOgMYYvaHR0cHM6Ly93d3cuYWNy
+MnNlLmVjb25vbWlhLmdvYi5teC9lY29ub21pYS5jcmwwUQYDVR0gBEowSDBGBglg
+g2RlCoI8CgEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cuYWNyMnNlLmVjb25v
+bWlhLmdvYi5teC9jcHMuaHRtbDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQE
+AwIB/jARBglghkgBhvhCAQEEBAMCAAcwDQYJKoZIhvcNAQELBQADggIBAHU61OMt
+rXriQuEPnIWnLQodLAbyK/xBoO6T2cHs6H1iZwA2rjnRG8Gk3eT8biWcJhIN7NqZ
+QlxcirRId1FNZK3/m0TU8N4I3dZ2rfxJGrYD2+pzHnhtu4YGR6SpgqNvZ5LbwjqO
+B7RpwhCArrN8+kYVmtorGBJ3iaKFDM+1j782k2w1guJDUvw6bkQVYsPNxYud9IBJ
+neXxHJADJ5q5Fxv5o2WYKeBIO35id7ez4OMYRJPgFPgLMToWRux+veZliq8ePEec
+A1Kva5OaCIX1VQfL8pAByvq7oPHQV9x4/6GbbhMznzC6So0LWEx4nshRCRdChRHQ
+rdpnx+/UBl7/XAjQQ823bE0+1sldXqn0gcKoKI/IaHj7d6cui6QF9hjIfS9lyrXw
+/gpyuHZDYq6vVkXTglr5y3ayyvnWAOZM6MqSluFRG53pmes3Y1lLGNLUZHQ90kdZ
+/2WZWPqgiDs+cIfB1X+AhWRW6xJoIpbsv7L/vBVMRzGgTf8BQcZRUdvfNt9VxqPX
+0AfKjC1SiPG4+8a6ojiVqvJ43NgfLL71QFgbIY9IWkwvqUuUkrVEeqkP9mR+c9Qa
+ZQeg5/0mhHVrXQQWov4AdBwV5iZh+eW+PJry3YwbcEq57mmjyYMXhODWY0G+cOlc
+XNcAcNfwGXtcDWb+LrYFv87ko4YcC+J/pF8d</X509Certificate>
+					</DigitalId>
+				</ServiceDigitalIdentity>
+				<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/withdrawn</ServiceStatus>
+				<StatusStartingTime>2017-02-08T00:00:00Z</StatusStartingTime>
+				<SchemeServiceDefinitionURI>
+					<URI xml:lang="en">http://www.firmadigital.gob.mx/tramites.html</URI>
+					<URI xml:lang="es">http://www.firmadigital.gob.mx/tramites.html</URI>
+				</SchemeServiceDefinitionURI>
+				<ServiceInformationExtensions>
+					<Extension Critical="true">
+						<ns5:Qualifications>
+							<ns5:QualificationElement>
+								<ns5:Qualifiers>
+									<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+								</ns5:Qualifiers>
+								<ns5:CriteriaList assert="atLeastOne">
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+									<ns5:PolicySet>
+										<ns5:PolicyIdentifier>
+											<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.10.1</ns3:Identifier>
+										</ns5:PolicyIdentifier>
+									</ns5:PolicySet>
+							</ns5:QualificationElement>
+						</ns5:Qualifications>
+					</Extension>
+					<Extension Critical="true">
+						<AdditionalServiceInformation>
+							<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+						</AdditionalServiceInformation>
+					</Extension>
+				</ServiceInformationExtensions>
+			</ServiceInformation>
+			<ServiceHistory>
+				<ServiceHistoryInstance>
+					<ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/CA/QC</ServiceTypeIdentifier>
+					<ServiceName>
+						<Name xml:lang="en">PSC World AC</Name>
+						<Name xml:lang="es">PSC World AC</Name>
+					</ServiceName>
+					<ServiceDigitalIdentity>
+						<DigitalId>
+							<X509SubjectName>CN = PSCWORLD-AC4, DC = pscworld, DC = com, E = servicios@pscworld.com.mx, O = PSC World S.A. de C.V., OU = PSC World AC, STREET = Morelos 7 Nivel 3, PostalCode = 04100, C = MX, S = Ciudad de Mexico, L = Coyoacan</X509SubjectName>
+						</DigitalId>
+						<DigitalId>
+							<X509SKI>8O7OS9Y0D0D6wvvbv2bBksIihv4=</X509SKI>
+						</DigitalId>
+					</ServiceDigitalIdentity>
+					<ServiceStatus>http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted</ServiceStatus>
+					<StatusStartingTime>2017-12-15T19:01:31Z</StatusStartingTime>
+					<ServiceInformationExtensions>
+						<Extension Critical="true">
+							<ns5:Qualifications>
+								<ns5:QualificationElement>
+									<ns5:Qualifiers>
+										<ns5:Qualifier uri="http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/NotQualified"/>
+									</ns5:Qualifiers>
+									<ns5:CriteriaList assert="atLeastOne">
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.2.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+										<ns5:PolicySet>
+											<ns5:PolicyIdentifier>
+												<ns3:Identifier Qualifier="OIDAsURN">urn:oid:2.16.484.101.10.316.2.2.1.1.1.1.2</ns3:Identifier>
+											</ns5:PolicyIdentifier>
+										</ns5:PolicySet>
+									</ns5:CriteriaList>
+								</ns5:QualificationElement>
+							</ns5:Qualifications>
+						</Extension>
+						<Extension Critical="true">
+							<AdditionalServiceInformation>
+								<URI xml:lang="en">http://uri.etsi.org/TrstSvc/TrustedList/SvcInfoExt/ForeSignatures</URI>
+							</AdditionalServiceInformation>
+						</Extension>
+					</ServiceInformationExtensions>
+				</ServiceHistoryInstance>
+			</ServiceHistory>
+		</TSPService>
+	</TSPServices>
+</TrustServiceProvider>
